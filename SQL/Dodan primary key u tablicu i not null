@@ -4,10 +4,11 @@
 -- GO
 -- create database git;
 
-use git;
+-- use git;
 
-create table grupa(
-    id int primary key not null,
-    naziv varchar(50),
-);
+-- create table grupa(
+--     id int primary key not null,
+--     naziv varchar(50),
+-- );
+
 
